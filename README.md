@@ -4,7 +4,7 @@ Diese Variablenart ist wohl die wichtigste in den verschiedene Programmiersprach
 Sie stellt eine Listenvariable dar, wo sehr viele Werte gespeichert werden können. 
 ## Blockvorschau
 
-### [Projekte im Micro:bit öffnen:] (https://makecode.microbit.org/#pub:_CbADhU1MC5R7)
+### Projekte im Micro:bit öffnen: (https://makecode.microbit.org/#pub:_CbADhU1MC5R7)
 
 ### Dieses Bild zeigt den Programmcode in einer Grafik an.
 
