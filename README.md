@@ -1,22 +1,7 @@
 
-> Diese Seite bei [https://dlpl-mb.github.io/morse_01_bst_senden/](https://dlpl-mb.github.io/morse_01_bst_senden/) öffnen
-
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/dlpl-mb/morse_01_bst_senden** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/dlpl-mb/morse_01_bst_senden/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/dlpl-mb/morse_01_bst_senden** ein und klicke auf Importieren
+# Arrays - die Supervariablen
+Diese Variablenart ist wohl die wichtigste in den verschiedene Programmiersprachen:
+Sie stellt eine Listenvariable dar, wo sehr viele Werte gespeichert werden können. 
 
 ## Blockvorschau
 
