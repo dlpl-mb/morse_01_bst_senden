@@ -20,7 +20,7 @@ input.onButtonPressed(Button.A, function () {
 let zufall = 0
 let liste_morsecodes: string[] = []
 let liste_buchstaben: string[] = []
-basic.showIcon(IconNames.Yes)
+basic.showIcon(IconNames.Heart)
 liste_buchstaben = [
 "A",
 "B",
