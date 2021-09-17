@@ -4,8 +4,7 @@ Diese Variablenart ist wohl die wichtigste in den verschiedene Programmiersprach
 Sie stellt eine Listenvariable dar, wo sehr viele Werte gespeichert werden können. 
 ## Blockvorschau
 
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
+Dieses Bild zeigt den Programmcode in einer Grafk an.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/dlpl-mb/morse_01_bst_senden/raw/master/.github/makecode/blocks.png)
 
