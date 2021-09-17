@@ -4,7 +4,8 @@ Diese Variablenart ist wohl die wichtigste in den verschiedene Programmiersprach
 Sie stellt eine Listenvariable dar, wo sehr viele Werte gespeichert werden können. 
 ## Blockvorschau
 
-Dieses Bild zeigt den Programmcode in einer Grafk an.
+[Projekte im Micro:bit öffnen:] (https://makecode.microbit.org/_CbADhU1MC5R7)
+Dieses Bild zeigt den Programmcode in einer Grafik an.
 
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/dlpl-mb/morse_01_bst_senden/raw/master/.github/makecode/blocks.png)
 
