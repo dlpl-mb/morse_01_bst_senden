@@ -5,30 +5,13 @@ Sie stellt eine Liste dar, in der sehr viele Werte gespeichert werden können.
 
 * Ein Beispiel mit Namen:
 
-```blocks
-input.onButtonPressed(Button.A, function () {
-    anzahl_elemente = namens_liste.length
-    for (let index = 0; index <= anzahl_elemente - 1; index++) {
-        name = namens_liste[index]
-        alter = alters_liste[index]
-        basic.showString("" + name + " ist " + alter + "Jahre alt")
-        basic.pause(5000)
-    }
-})
-let alter = ""
-let name = ""
-let anzahl_elemente = 0
-let alters_liste: string[] = []
-let namens_liste: string[] = []
-namens_liste = ["Maria", "Georg", "Sophie"]
-alters_liste = ["12", "11", "12"]
-``` 
+<img src="https://github.com/dlpl-mb/baa_morse_code_01/blob/master/images/learn_arrays_1.png?raw=1" />
 
-* Ob man jetzt 3 Namen hat oder 500, der Programmcode ändernt sich nicht - außer bei der Befüllung der Variablen!
+* Ob man jetzt 3 Namen hat oder 500, der Programmcode ändern sich nicht - außer bei der Befüllung der Variablen!
 * Wenn du dieses kleine Programm nacharbeiten und auch verändern kannst, hat du einen Riesenschritt im Programmieren gemacht.
-* Hier zum Öffnen in Makecode: [Beispiel](https://makecode.microbit.org/#pub:_THmW3ohWpDb4)
+* [Hier zum Öffnen in Makecode](https://makecode.microbit.org/#pub:_THmW3ohWpDb4)
 
-## Arrays im Projekt "Morse 1" angewendet: [Beispiel](https://makecode.microbit.org/#pub:_CbADhU1MC5R7)
+## Arrays im Projekt "Morse 1" angewendet: [Öffnen in Makecode](https://makecode.microbit.org/#pub:_CbADhU1MC5R7)
 
 ### Dieses Bild zeigt den Programmcode in einer Grafik an.
 
