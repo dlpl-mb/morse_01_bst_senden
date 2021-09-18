@@ -11,7 +11,7 @@ Sie stellt eine Liste dar, in der sehr viele Werte gespeichert werden können.
 * Wenn du dieses kleine Programm nacharbeiten und auch verändern kannst, hat du einen Riesenschritt im Programmieren gemacht.
 * [Hier zum Öffnen in Makecode](https://makecode.microbit.org/#pub:_THmW3ohWpDb4)
 
-## Arrays im Projekt "Morse 1" angewendet: [Öffnen in Makecode](https://makecode.microbit.org/#pub:_CbADhU1MC5R7)
+## Arrays im Projekt "Morse 2" angewendet: [Öffnen in Makecode](https://makecode.microbit.org/#pub:_CbADhU1MC5R7)
 
 ### Dieses Bild zeigt den Programmcode in einer Grafik an.
 
