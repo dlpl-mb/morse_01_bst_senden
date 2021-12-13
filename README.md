@@ -32,9 +32,15 @@ Sie stellt eine Liste dar, in der sehr viele Werte gespeichert werden können.
 
 <hr>
 
-```blocks
+```block
    basic.showIcon(IconNames.Heart)
 ```
+
+<script src="https://makecode.com/gh-pages-embed.js"></script>
+
+<script>makeCodeRender("https://makecode.microbit.org/", "dlpl-mb/morse_01_bst_senden");</script>
+
+
 
 
 <style>.page-header {font-size:1rem;height:0vh;padding-top:1.5rem}</style> 
