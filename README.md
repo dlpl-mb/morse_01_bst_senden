@@ -8,7 +8,7 @@ basic.showIcon(IconNames.Heart)
 
 ```block
 basic.showIcon(IconNames.Heart)
-```block
+```
 
 
 
