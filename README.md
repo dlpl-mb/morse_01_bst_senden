@@ -1,3 +1,14 @@
+# test 
+
+# Versuch der Befehlsdarstellung:
+
+```blocks
+basic.showIcon(IconNames.Heart)
+```
+
+```block
+basic.showIcon(IconNames.Heart)
+```
 
 # Arrays - die Supervariablen
 Diese Art von Variablen ist wohl die wichtigste in den verschiedenen Programmiersprachen:
@@ -18,16 +29,6 @@ Sie stellt eine Liste dar, in der sehr viele Werte gespeichert werden können.
 ![Eine gerenderte Ansicht der Blöcke](https://github.com/dlpl-mb/morse_01_bst_senden/raw/master/.github/makecode/blocks.png)
 
 <hr>
-
-# Versuch der Befehlsdarstellung:
-
-```block
-basic.showIcon(IconNames.Heart)
-```
-
-```blocks
-basic.showIcon(IconNames.Heart)
-```
 
 
 
