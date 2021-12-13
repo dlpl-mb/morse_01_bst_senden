@@ -2,7 +2,7 @@ makecode:
   target: microbit
   platform: microbit
   xhome_url: https://makecode.st.com/
-  home_url: https://makecode.microbit.org/
+  home_url: https://makecode.st.org/
 theme: jekyll-theme-cayman
 include:
   - assets
