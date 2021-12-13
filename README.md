@@ -33,7 +33,7 @@ Sie stellt eine Liste dar, in der sehr viele Werte gespeichert werden können.
 
 <hr>
 
-```block
+```blocks
 basic.showIcon(IconNames.Heart)
 ```
 
