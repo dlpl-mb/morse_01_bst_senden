@@ -2,7 +2,7 @@
 
 # Versuch der Befehlsdarstellung:
 
-```block
+```blocks
 basic.showIcon(IconNames.Heart)
 ```
 
