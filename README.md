@@ -21,13 +21,13 @@ Sie stellt eine Liste dar, in der sehr viele Werte gespeichert werden können.
 
 # Versuch der Befehlsdarstellung:
 
-```blocks
+```block
 basic.showIcon(IconNames.Heart)
 ```
 
-´´´block
+```blocks
 basic.showIcon(IconNames.Heart)
-´´´
+```
 
 
 
