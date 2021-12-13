@@ -7,6 +7,12 @@ basic.showIcon(IconNames.Heart)
 ```
 
 
+```block
+basic.showIcon(IconNames.Heart)
+```
+
+
+
 # Arrays - die Supervariablen
 Diese Art von Variablen ist wohl die wichtigste in den verschiedenen Programmiersprachen:
 Sie stellt eine Liste dar, in der sehr viele Werte gespeichert werden können.
